@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v11.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v11.0": {
+      "TemperaturConverter.Lib/1.0.0": {
+        "runtime": {
+          "TemperaturConverter.Lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TemperaturConverter.Lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
